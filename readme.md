@@ -31,7 +31,8 @@
 - [SEO.ai](https://seo.ai/) - Utilizes AI for keyword research, content optimization, and enhancing SEO strategies .
 - [SEOWriting.ai](https://seowriting.ai/) - AI writing tool for SEO-optimized articles, capable of generating content in multiple languages 
 - [Winston AI](https://winston.ai/) - Detects and prevents AI-generated content fraud, ensuring authenticity and integrity 
-- [DALL·E](https://www.openai.com/dall-e-3/) - AI system for creating realistic images and art from natural language descriptions 
+- [DALL·E](https://www.openai.com/dall-e-3/) - AI system for creating realistic images and art from natural language descriptions
+- [Gracker AI](https://www.gracker.ai) - AI Editorial and Programmatic SEO solution for B2B Cybersecurity SaaS companies. 
 
 
 ## Content Optimization
